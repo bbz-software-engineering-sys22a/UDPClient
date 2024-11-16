@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Geiss/OneDrive - Berufsbildungszentrum Schaffhausen/SE-SYS21/Semester 5/14 udp socket/UDPClientClion/cmake-build-debug",
-		"source" : "C:/Users/Geiss/OneDrive - Berufsbildungszentrum Schaffhausen/SE-SYS21/Semester 5/14 udp socket/UDPClientClion"
+		"build" : "C:/Users/Geiss/Desktop/UDPClient/cmake-build-debug",
+		"source" : "C:/Users/Geiss/Desktop/UDPClient"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 7
 	}
 }

@@ -14,7 +14,7 @@ using namespace std;
 int main(void)
 {
     const int PORT = 8888; //Server Port
-    const string SERVERADDRESS = "192.168.180.69"; //server adresse
+    const string SERVERADDRESS = "127.0.0.1"; //server adresse
     const int MESSAGELENGTH = 512; //max Länger der Nachricht
 
     SOCKET udpSocket;	//Socket Objekt erstellen, benötigt für socket()
